@@ -58,6 +58,7 @@ if __name__ == "__main__":
 12. A function to slice the dataframe using user input of size
 13. A listener which implements a while loop if the shoes are not in stock in the user defined size and exits the loop if the shoes become in stock sending an email
 14. If shoes arent in stock then the script will wait 5 minutes before checking the webpage again
+15. This script was packaged up as a .exe file using PyInstaller so it can be double clicked and left to run
 
 ## Next Steps
 * Use Tkinter for interactive popups
