@@ -4,7 +4,8 @@
 Nike Romaleo 4 shoes are extremely low stock for smaller female sizes in the UK (i.e. UK 5.5 and lower) - this script checks for stock using a user inputted size and sends automatic email notifications.
 21st December 2021
 
-![image](images.jpg)
+![image](https://media.alltricks.com/medium/2023821605e5b5bb09dc9.57097954.jpg)
+
 
 | .py                                  | Description                                                                                                    |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------|
