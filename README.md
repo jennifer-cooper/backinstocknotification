@@ -1,6 +1,6 @@
 # Back in Stock Notification for Nike Romaleos 4
 ### Author: Jennifer Cooper
-## Rationale
+
 Nike Romaleo 4 shoes are extremely low stock for smaller female sizes in the UK (i.e. UK 5.5 and lower) - this script checks for stock using a user inputted size and sends automatic email notifications.
 21st December 2021
 
